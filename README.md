@@ -17,4 +17,5 @@ pyecharts 是一个用于生成 Echarts 图表的类库。Echarts 是百度开�
 >bar.render()
 
 这样你的第一个图表就出来了。可以去PY文件下面的目录找到一个叫render.html的文件，打开就能看到生成的柱形图。
-在之中点击右侧的工具就可以保存到本地图片
+在之中点击右侧的工具就可以保存到本地图片.  
+![](https://github.com/h1997l1997/Pyecharts---Markdown/blob/master/Pic/zhuzhuangtu.png)
